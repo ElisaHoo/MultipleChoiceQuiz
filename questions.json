@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Which fairytale is found in almost every culture and language?",
+        "choices": [
+            {
+                "text": "The Snow Queen",
+                "points": 0
+            },
+            {
+                "text": "Little Red Riding Hood",
+                "points": 0
+            },
+            {
+                "text": "Cinderella",
+                "points": 1
+            },
+            {
+                "text": "Spongebob Squarepants",
+                "points": 0
+            }
+        ]
+    },
+    {
+        "text": "Which was built first:",
+        "choices": [
+            {
+                "text": "Eiffel Tower",
+                "points": 1
+            },
+            {
+                "text": "Panama Canal",
+                "points": 0
+            },
+            {
+                "text": "Golden Gate Bridge",
+                "points": 0
+            },
+            {
+                "text": "Sydney Opera House",
+                "points": 0
+            }
+        ]
+    },
+    {
+        "text": "A marathon is how many kilometers?",
+        "choices": [
+            {
+                "text": "40 km",
+                "points": 0
+            },
+            {
+                "text": "41 km",
+                "points": 0
+            },
+            {
+                "text": "42 km",
+                "points": 0
+            },
+            {
+                "text": "42.195 km",
+                "points": 1
+            }
+        ]
+    }
+]
